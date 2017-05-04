@@ -10,6 +10,8 @@ namespace VersieBeheerRubenLannoye
     {
         static void Main(string[] args)
         {
+            Console.Write("hello");
+            Console.ReadLine();
         }
     }
 }
